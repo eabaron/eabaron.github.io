@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Nuclear Physics Theory, Stony Brook University, 1985
+* Ph.D in Nuclear Physics, Stony Brook University, 1985
 * M.A. in Physics, Stony Brook University, 1983
 * B.A. in Physics, Univ. of Pennsylvania, 1980
 
@@ -32,12 +32,14 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Spectroscopy
+* Numerical Methods
+  * MPI 
+  * OpenMP 
+  * OpenAcc
+* Data Analysis
+* Supernovae
+* Nuclear Physics
 
 Publications
 ======
