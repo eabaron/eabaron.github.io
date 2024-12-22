@@ -11,26 +11,24 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Nuclear Physics Theory, Stony Brook University, 1985
+* M.A. in Physics, Stony Brook University, 1983
+* B.A. in Physics, Univ. of Pennsylvania, 1980
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2023-Present: Senior Scientist
+  * Planetary Science Institute
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2023-Present: George Lynn Cross Research Professor Emeritus
+  * University of Oklahoma
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2011-2023: George Lynn Cross Research Professor
+  * University of Oklahoma
+
+* 1990-2023: Professor
+  * University of Oklahoma
+
   
 Skills
 ======
@@ -61,4 +59,8 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Acting Department Chair, Physics, Univ of Oklahoma, 2016
+
+Honors and Awards
+======
+* Fellow, American Physical Society
