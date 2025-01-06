@@ -55,7 +55,8 @@ advisor, Baron was closely involved. Nielsen Award 2003. Current Position: NERSC
 Scientist, LBNL, Berkeley, CA
 
 
-* Dean Richardson, University of Oklahoma, 2004, David Branch was
+* Dean Richardson, University of Oklahoma, 2004, Thesis Title: Absolute-magnitude Distributions and Light Curves of Stripped-envelope Supernovae.
+David Branch was
 official advisor, Baron was closely involved. Current Position:
 Professor, Xavier University.
 
@@ -116,7 +117,7 @@ Postdoc, Space Telescope Science Institute
 Current Position: Postdoc, LANL
 
 
-* Anthony Burrow, University of Oklahoma, 2024, Thesis Title: Connections Between the Spectroscopy and Photometry of Type ia Supernovae.
+* Anthony Burrow, University of Oklahoma, 2024, Thesis Title: Connections Between the Spectroscopy and Photometry of Type Ia Supernovae.
 Current Position: Data Scientist.
 
 
