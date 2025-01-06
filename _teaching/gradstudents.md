@@ -33,8 +33,9 @@ Thermodynamic Spectrum Synthesis of Type Ia Supernovae. Nielsen Award 1997.  Cur
 National Laboratory
 
 
-* Jim Buell, University of Oklahoma, 1998.  Richard Henry was official
-advisor, but Baron is closely involved. Current Position: Associate
+* Jim Buell, University of Oklahoma, 1998. Theis Title: Abundances in Planetary Nebulae: an Autopsy of Low and Intermediate Mass Stars 
+ Richard Henry was official
+advisor, but Baron was closely involved. Current Position: Associate
 Professor, Alfred State College
 
 
@@ -48,7 +49,8 @@ Determining the distance of SN 1987A with SEAM. Current Position:
 Associate Professor, St. Ambrose University 
 
 
-* Rollin Thomas, University of Oklahoma, 2003, David Branch was official
+* Rollin Thomas, University of Oklahoma, 2003, Thesis Title: Synthetic spectrum methods for three dimensional supernova models.
+ David Branch was official
 advisor, Baron was closely involved. Nielsen Award 2003. Current Position: NERSC Data
 Scientist, LBNL, Berkeley, CA
 
@@ -64,7 +66,8 @@ Professor, Xavier University.
     Paris, France
 
 
-* Darrin Casebeer, University of Oklahoma, 2006, Karen Leighly was
+* Darrin Casebeer, University of Oklahoma, 2006, Thesis Title: Constraining the composition and physics of active galactic nuclei with computer modeling.
+Karen Leighly was
 official advisor, Baron was closely involved. Current Position:
 Engineer, Boeing Corp (retired).
 
@@ -77,7 +80,7 @@ Senior Scientist, Centane Corp, St. Louis, MO.
 
 * Bobby Fleshman, University of Oklahoma, 2012, Thesis Title: Hot
 Electrons and Radial Diffusion in Saturn’s Inner Magetosphere:
-Modeling the Effects on Ion Chemistry, Current Position:  Owner,
+Modeling the Effects on Ion Chemistry. Fran Bagenal, co-advisor. Current Position:  Owner,
 McFleshman's Brewing Company, Racine, WI.
 
 
@@ -99,10 +102,9 @@ Various Topics in Type Ia Supernovae
 Current Position: Cybersecurity, Edward Jones
 
 
-* Yang Li, University of Oklahoma, 2020, Thesis Title: Casimir Effect: Quantum Fluctuations and Thermal Fluctuations,
-Kim Milton (co-advisor)
-Current Position:
-Assistant. Prof., Nanchang University, China
+* Yang Li, University of Oklahoma, 2020, Thesis Title: Casimir Effect: Quantum Fluctuations and Thermal Fluctuations.
+Baron was advisor of record, Kim Milton was actual advisor.
+Current Position: Assistant. Prof., Nanchang University, China
 
 
 * James M. DerKacy, University of Oklahoma, 2022, Thesis Title: Casimir Effect: Quantum Fluctuations and Thermal Fluctuations,
@@ -114,8 +116,8 @@ Postdoc, Space Telescope Science Institute
 Current Position: Postdoc, LANL
 
 
-* Anthony Burrow, University of Oklahoma, 2024 (expected), Thesis Title: ,
-Current Position: Data Scientist (expected)
+* Anthony Burrow, University of Oklahoma, 2024, Thesis Title: Connections Between the Spectroscopy and Photometry of Type ia Supernovae.
+Current Position: Data Scientist.
 
 
 
